@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #		0		1		2
-arr=( "Batman" "Yoda" "Superman" "Deadpool" )
+arr=( "Batman" "Yoda" "Superman" "Deadpool" "ironman" )
 
 size=${#arr[@]}
 
